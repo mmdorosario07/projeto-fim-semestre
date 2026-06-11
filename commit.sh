@@ -1,7 +1,7 @@
 #!/bin/bash
 # Uso: ./commit.sh "mensagem do commit"
 
-TOKEN="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"
+TOKEN="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"
 USER="mmdorosario07"
 REPO="projeto-fim-semestre"
 BRANCH="main"
