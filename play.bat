@@ -1,5 +1,5 @@
 javac Main.java
 java Main
 
-rm Main.class
+rem Main.class
 
